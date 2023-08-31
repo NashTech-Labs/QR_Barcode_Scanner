@@ -74,3 +74,6 @@ This project is licensed under the [MIT License](LICENSE).
 - [Firebase Documentation](https://firebase.google.com/docs)
 - [Kotlin Programming Language](https://kotlinlang.org/)
 - [Android Studio Documentation](https://developer.android.com/studio)
+
+## Owner:
+Rishika Kumari is owner of this repo
