@@ -77,3 +77,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Owner:
 Rishika Kumari is owner of this repo
+LinkedIn : [rishika-tiwari-a7a9b0190](https://www.linkedin.com/in/rishika-tiwari-a7a9b0190/)
